@@ -1,0 +1,23 @@
+body{
+    background-image: url("https://c2.staticflickr.com/4/3509/3200045660_e9b86c5c20_z.jpg?zz=1");
+}
+ 
+ h1{
+     color:white;
+     background-color:#ff9966;
+ }
+ #a{
+     color:white;
+     background-color:#ff9966;
+ }
+ #b {
+     background-color:#ff99ff;
+ }
+ #c {
+     color:#006666;
+     background-color:#66ffff;
+ }
+ #d {
+     color:#663300;
+     background-color:#ff8000;
+ }

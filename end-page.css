@@ -1,0 +1,23 @@
+#facebook{
+    height: 50px;
+}
+#twitter{
+    height:50px;
+}
+#instagram{
+    height:50px;
+} 
+div{
+    margin-top: 75px;
+}
+
+body { background-size:100%;
+    background-repeat:no-repeat;
+    background-image: url("https://c2.staticflickr.com/4/3091/2509259255_73693c0f12_o.jpg");
+}
+#try{
+    color:black;
+}
+#endH1{
+    color: white;
+}

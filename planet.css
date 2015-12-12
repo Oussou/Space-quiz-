@@ -1,0 +1,35 @@
+#a{
+position:static;
+right:100px;
+font-size:100px;
+bottom:150px;
+}
+#b{
+ position:static;
+left:-315px;
+bottom:-100px;
+color:purple;
+font-size:100px;
+}
+#c{ 
+position:static;
+top:-150px;
+right:-200px;;
+font-size:100px;
+}
+#d{
+  position:static;
+  top:100px;
+  left:-10px;
+  font-size:100px;
+}
+h1{
+    position:static;
+    font-size:70px;
+    bottom:80px;
+}
+h3{
+    color:red;
+    font-size:50px;
+}
+

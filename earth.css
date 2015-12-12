@@ -1,0 +1,24 @@
+#e {
+    color:#66ffff;
+    background-color:#66ff66;
+}
+#a {
+    color:#000099;
+    background-color:#9999ff;
+    }
+    #b{
+        background-color:#ff99ff;
+    }
+    #c{
+        color:#ff0000;
+        background-color:#ff99cc;
+    }
+    #d{
+        color:#ff6600;
+        background-color:#ffff00;
+    }
+body{
+    background-image: url("https://static.pexels.com/photos/2422/sky-earth-galaxy-universe.jpg");
+background-size: 93%;
+    
+}

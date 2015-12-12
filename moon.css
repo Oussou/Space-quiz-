@@ -1,0 +1,25 @@
+#e {
+    color:red;
+}
+#a {
+    color:blue;
+    background-color: purple;
+}
+#b {
+    color:yellow;
+    background-color:#99ff99;
+}
+#c {
+    background:#6600cc;
+}
+#d {
+    background-color:#404040;
+}
+
+
+
+
+body { 
+    background-size:100%;
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/FullMoon2010.jpg/1077px-FullMoon2010.jpg");
+}

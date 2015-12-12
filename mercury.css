@@ -1,0 +1,23 @@
+#e {
+    color:#ff9900;
+    background-color:#0099ff;
+}
+#a{
+    color:#009900;
+    background-color:#ccff33;
+}
+#b{
+    background-color:#ff99ff;
+}
+#c{
+    color:#000099;
+    background-color:#66ccff;
+}
+#d{
+    color:#ff0000;
+    background-color:#ff6600;
+}
+body {
+    background-image:url("https://c1.staticflickr.com/9/8228/8497927563_00dcb3fe09_b.jpg");
+    background-size:110%;
+}
